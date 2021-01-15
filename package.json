@@ -20,6 +20,9 @@
     "typescript": "~3.9.7"
   },
   "dependencies": {
+    "@aws-cdk/aws-iam": "1.62",
+    "@aws-cdk/aws-sam": "1.62",
+    "@aws-cdk/aws-synthetics": "1.62",
     "@aws-cdk/core": "1.62.0",
     "@aws-cdk/pipelines": "1.62.0",
     "source-map-support": "^0.5.16"
